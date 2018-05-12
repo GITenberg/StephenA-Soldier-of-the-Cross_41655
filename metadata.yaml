@@ -1,0 +1,26 @@
+_repo: StephenA-Soldier-of-the-Cross_41655
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41655-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Kingsley, Florence Morse
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '7835'
+    url: http://www.gutenberg.org/2009/agents/7835
+description: ''
+gutenberg_issued: '2012-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Stephen, Saint, -approximately 36 -- Fiction'
+title: 'Stephen: A Soldier of the Cross'
+url: http://www.gutenberg.org/ebooks/41655
